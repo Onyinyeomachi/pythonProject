@@ -1,1 +1,1 @@
-A python projects and automations.
+A list of python projects and automations.
